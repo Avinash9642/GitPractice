@@ -13,3 +13,5 @@ The `style.css` file is a CSS (Cascading Style Sheets) file that is used to defi
 By separating the CSS code into a separate file, it allows for easier maintenance and organization of the styles. The `style.css` file is linked to the `index.html` file using the `<link>` element in the HTML `<head>` section.
 
 Feel free to modify and customize these files to suit your project's needs.
+
+My name is GHOST.......
