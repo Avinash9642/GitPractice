@@ -1,0 +1,13 @@
+/* FILEPATH: /Users/avinashmedisetty/Downloads/Git/style.css */
+
+/* Reset default browser styles */
+body, h1, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Add custom styles here */
+
+* {
+    color: #333;
+}
